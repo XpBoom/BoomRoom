@@ -12,7 +12,7 @@ import android.content.pm.PackageManager.NameNotFoundException;
 public class CommonUtil {
 	public static final String APPURL = "http://118.244.212.82:9092/newsClient";
 	public static final int VERSION_CODE = 1;
-
+ 
 	/**
 	 * 获取当前日期
 	 * 
