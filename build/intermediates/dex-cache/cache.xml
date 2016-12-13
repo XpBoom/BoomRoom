@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-QZone-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="158eb0f8525584008bfc92c2c6a4841174133a0a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-QZone-2.7.10_8d86ddb310f0e8cfeee11122ebfae7876300930b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-Wechat-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="b9e12f2d8a6f01dce27c65ce3b93bccd46e7ffd4">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-2.7.10_aa873f9b80cea5db1891cf5b236cb738041e2c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-SinaWeibo-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="52574245a489f42699687ba9038c8c803a8e8bcf">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-SinaWeibo-2.7.10_28a154378fb6261102c330f20ebc579205c3fb1f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\jpush-android-2.2.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="ec655472ad073dd34019d3e2134e028f570598d9">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\jpush-android-2.2.0_904241b2471b1586f662296267a4762130e980e3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\slidingmenu.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="942c0d8b6512d787707afbe8293566c413cdb86a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\slidingmenu_9c06c76f9d2e4d8273ecf101c489d65fca57d2f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a7e5f9da3635eb8d89b8a9a22cd68cd64cca9104">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-Core-2.7.10_85ff2b99fb6a0f48f362c4239d0e385823dedb0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\MobCommons-2016.1107.1809.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="978446ee83b82106e7d859832e4e3440101bda5a">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\MobCommons-2016.1107.1809_1d5a4b0a25212d4ecce24813475f804714b4a922.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.2.2\1f96456ca233dec780aa224bff076d8e8bca3908\gson-2.2.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="1f96456ca233dec780aa224bff076d8e8bca3908">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\gson-2.2.2_ebab29b4045f2a3632da7471eaec5b8deae7f782.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="65c60198c407a9bede21de2527ff87accce90a44">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\instant-run_d6eb6b1e7c8ee9318e15b6f855b73d3e97660831.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\volley.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="c332b3c04c2f84df575958b1e5e20b9c6c657e8d">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\volley_fffea04f679226d6f829315580602f2bb56d016a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_bafc08b88af2fe8abfdbce7ffc7feeff4fc1170d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\MobTools-2016.1107.1809.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="51ab3d9199c3df198ba8fedb2916027f283676d6">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\MobTools-2016.1107.1809_175f3f8d1052cb50b3b20e9d418ca23d6429492f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-Wechat-Core-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a720ef31ac89904b603fb2a27c01bb21a951fcad">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Core-2.7.10_0c4bd6b317a83cb5ec38dbe2ca4608f562821470.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-QQ-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="5d3ffc9c4c2743fcc83b3333f77fc252fb146889">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-QQ-2.7.10_0e1c015743c7749bc385ef3a7b74ea5181c3a8b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\libs\ShareSDK-Wechat-Moments-2.7.10.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="a8357a3810c2e5bbb6274042a1508bac87759c5f">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\ShareSDK-Wechat-Moments-2.7.10_5ef245fe7133094936b85f42cd8d142d6ad8c0e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.1"
+        sha1="fe3292912e63200b8d540508b05aa467aba8ecac">
+        <dex dex="C:\Users\Administrator\AndroidStudioProjects\News\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_83d78641b20936040a66fa14a4e50c6d4e17c478.jar" />
+    </item>
+
+</items>

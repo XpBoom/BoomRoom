@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\welcome.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\src\\main\\res\\drawable-hdpi\\welcome.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\small.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\src\\main\\res\\drawable-hdpi\\small.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\center_top_bg.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\src\\main\\res\\drawable-hdpi\\center_top_bg.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_slidingmenu_left.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\src\\main\\res\\drawable-hdpi\\bg_slidingmenu_left.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bd.jpg",
+        "source": "C:\\Users\\Administrator\\AndroidStudioProjects\\News\\app\\src\\main\\res\\drawable-hdpi\\bd.jpg"
+    }
+]
